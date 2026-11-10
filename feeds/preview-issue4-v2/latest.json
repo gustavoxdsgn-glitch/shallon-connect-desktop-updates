@@ -1,0 +1,11 @@
+{
+  "version": "0.3.3",
+  "notes": "Homologação isolada Preview Issue 4 V2: atualização de 0.3.2 para 0.3.3 somente no Windows pessoal de testes. Não utilizar em produção.",
+  "pub_date": "2026-11-10T15:09:36.000Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWkowN2ZVSkJ0Y0pISVJ0YWkzNGQ1K0FPMlF0VHN0a1lNRVdNZTZWaUdFemxFbjZMOGk2R0wvNWJKNjZFTGpOa0ZyeERxNWRMeEFlQmxWWjk5Q2liUXo5WDk0VFM2b1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzE5Mzc5CWZpbGU6U2hhbGxvbi1Db25uZWN0LTAuMy4zLXg2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMwpkalY2T2lVYlRkcVVKVjZyWFhKRCtVTFBJY1VYOWw4Z0Y0SittanFuWms0TW5HbmJKOG5IeGlZUWMybjBOQThPdFNrVzhyaFFPdHFEL0JlM1FKazVCQT09Cg==",
+      "url": "https://github.com/gustavoxdsgn-glitch/shallon-connect-desktop-updates/releases/download/preview-issue4-v2-v0.3.3/Shallon-Connect-0.3.3-x64-setup.exe"
+    }
+  }
+}
