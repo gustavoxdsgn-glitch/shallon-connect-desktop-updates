@@ -1,0 +1,10 @@
+{
+  "version": "0.3.1",
+  "notes": "Ensaio isolado Windows Issue 4: atualizacao de 0.3.0 para 0.3.1.",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/gustavoxdsgn-glitch/shallon-connect-desktop-updates/releases/download/preview-issue4-trial-v0.3.1-windows-retest-20261110/Shallon-Connect-0.3.1-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS1ZiUlprdkJ1d0xJQlFjZ0Vyb0VkSmVYNEcvK3I5WG95SzNPTzRxSlNzZ1p2aTdEVkVDdDN0WTZ1dEx0ODBUdFN1dGdXR28xcDhMQWh1Sy9CSyt5YXc0eHdpQXBsSUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjkxMjYyCWZpbGU6U2hhbGxvbi1Db25uZWN0LTAuMy4xLXg2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMQpzVmRYc0lrZjBpT3hUNTR1NkF2WEZ3T3c0N09YdkNYUkhsZGJNaEFkd0tRNjVaWUtpMm8yaFhteHUwblk3R3ltZ0tMZTNpcU5RcWtjdHJiNVIwaEhCQT09Cg=="
+    }
+  }
+}
